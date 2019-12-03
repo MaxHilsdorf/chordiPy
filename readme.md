@@ -1,2 +1,3 @@
-# cordiPy Tabulator by Max Hilsdorf
+# cordiPy Tabulator 
+by Max Hilsdorf
 
